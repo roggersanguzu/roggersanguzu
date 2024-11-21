@@ -1,4 +1,4 @@
-### Hi there I'am Roggers😊
+### Hi there I'm Roggers😊
 🤺 Currenty a computer Science student at the University of United States International University-Africa,Kenya.</br>
 🐈 Improving to the Notch.
 🦘 Currently learning API Integration and Computer Networks.<br>
