@@ -1,10 +1,7 @@
 ### Hi there I'm Roggers😊
 🤺 Currenty a computer Science student at the University of United States International University-Africa,Kenya.</br>
 🐈 Improving to the Notch.
-🦘 Currently learning API Integration and Computer Networks.<br>
-😎 Building a standing Poforlio as Techie.<br>
-👻Engaging in Tech Forums.<br>
-❤️All Private Repositories available on request.
+🦘 Currently leveraging Automation with Networks and Ansible & Jinja2 script based.<br>
 
 # 📊 GitHub Stats.
 ![](https://github-readme-stats.vercel.app/api?username=roggersanguzu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
