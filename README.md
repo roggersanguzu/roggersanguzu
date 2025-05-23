@@ -1,7 +1,3 @@
-### Hi there I'm Roggers😊
-🤺 Currenty a computer Science student at the University of United States International University-Africa,Kenya.</br>
-🐈 Improving to the Notch.
-🦘 Currently leveraging Automation with Networks and Ansible & Jinja2 script based.<br>
 
 # 📊 GitHub Stats.
 ![](https://github-readme-stats.vercel.app/api?username=roggersanguzu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
